@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ahmed Ayman
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning TypeScript, AWS, NestJs
+- 💞️ I’m looking to collaborate on NodeJs core.
+- 📫 How to reach me? ahmedaymanbfcai@gmail.com

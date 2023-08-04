@@ -2,9 +2,9 @@
 
 - 👋 I’m @Ahmed Ayman
 - 👀 I’m interested in Back-end
-- 🌱 I’m currently learning SQL, AWS, Docker.
+- 🌱 I’m currently learning C#, SQL, AWS, and Docker.
 - 💞️ I’m looking to collaborate on NodeJs core.
-- 📫 How to reach me? ahmedaymanbfcai@gmail.com
+- 📫 How to reach me? ahmedayman77200@gmail.com
 
 # 📚 Frameworks and Libraries
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>

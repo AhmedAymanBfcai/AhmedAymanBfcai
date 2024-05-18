@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 - 👋 I’m @Ahmed Ayman
-- 👀 I’m interested in Back-end
-- 🌱 I’m currently learning C#, SQL, AWS, and Docker.
+- 👀 I’m interested in Back-end, SRE
+- 🌱 I’m currently learning Nest, SQL, and AWS
 - 💞️ I’m looking to collaborate on NodeJs core.
 - 📫 How to reach me? ahmedayman77200@gmail.com
 

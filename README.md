@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 - 👋 I’m @Ahmed Ayman
-- 👀 I’m interested in Back-end, SRE
+- 👀 I’m interested in Back-end and SRE
 - 🌱 I’m currently learning Nest, SQL, and AWS
 - 💞️ I’m looking to collaborate on NodeJs core.
 - 📫 How to reach me? ahmedayman77200@gmail.com

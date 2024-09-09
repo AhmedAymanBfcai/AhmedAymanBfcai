@@ -1,10 +1,10 @@
-# Hi there! 👋
+# Hi There! 👋
 
 - 👋 I’m @Ahmed Ayman
-- 👀 I’m interested in QA, Test Automation, Backend, and DevOps.
-- 🌱 I’m currently learning Nest, SQL, and AWS
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Microservices, Advanced Database, and AWS
 - 💞️ I’m looking to collaborate on NodeJs core.
-- 📫 How to reach me? ahmedayman77200@gmail.com
+- 📫 How to reach me? ahmedaymanbfcai@gmail.com
 
 # 📚 Frameworks and Libraries
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
